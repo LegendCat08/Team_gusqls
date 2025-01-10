@@ -3,7 +3,7 @@
 
 ## 연암공대 해커톤 제출 코드
 
-```
+```C++
 #include <iostream>
 #include <fstream>
 #include <string>
