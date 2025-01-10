@@ -22,7 +22,7 @@ Location getUserLocationFromGPS() {
         gpsFile.close();
     } else {
         std::cerr << "Error: Could not open GPS data file.\n";
-        userLocation = {0.0, 0.0}; // Default location in case of error
+        userLocation = {0.0, 0.0};
     }
     return userLocation;
 }
