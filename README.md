@@ -3,8 +3,9 @@
 
 ## 연암공대 해커톤 제출 코드
 
-#include #<iostream>
-#include #<fstream>
+```
+#include <iostream>
+#include <fstream>
 #include <string>
 
 struct Location {
@@ -39,4 +40,5 @@ int main() {
     
     return 0;
 }
+```
 
